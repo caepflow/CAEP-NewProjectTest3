@@ -1,0 +1,15 @@
+id: f6a226d7-6cd8-48cd-8070-8011d016888e
+type: domain
+interactions:
+- targetId: 997c4e8d-69bc-4911-81d4-159788b2e02c
+  type: scenario
+  level: component
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    a793f1dc-b908-48af-b7e6-f1cc6d86583a:
+      x: 140
+      y: 419.5
+name: NewDomain
+description: Description for NewDomain

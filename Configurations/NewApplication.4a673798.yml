@@ -1,0 +1,19 @@
+id: 973cf006-623e-49b0-8281-8793962d0e32
+type: application
+interactions:
+- targetId: 41312bfc-5e40-4693-a790-9c9ae123de48
+  type: service
+  level: component
+- targetId: f6a226d7-6cd8-48cd-8070-8011d016888e
+  type: domain
+  level: component
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    a793f1dc-b908-48af-b7e6-f1cc6d86583a:
+      x: 140
+      y: 124.5
+name: NewApplication
+description: Description for NewApplication
+baseApiUrl: ca/baseapi
